@@ -1,0 +1,16 @@
+-I recorded a -d 4 -s 2  solution to solution.json in the repository. But I designed my code to export the solution every time you 
+run the program. 
+
+-I named .json files a combination of that algorithm you choose, depot number, salesman number etc. so you can find the
+solution you created easily. 
+
+-I will put my tryings in another file(My Results) so you can check them if you want. 
+
+-I created an .xlsx file in directory by hand so every data collected from the program is going to be record there. You can check 
+there and see all datas I collected and you created when run the program. 
+
+-I can not make .xlsx file to run with maven. It is working with an IDE.
+
+NOTE!!!
+I did this homework on my own. I talked with my friends from industral engineering once and then they did not respond my message.
+I want this to be considered.

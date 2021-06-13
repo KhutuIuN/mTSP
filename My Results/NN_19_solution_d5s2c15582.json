@@ -1,0 +1,41 @@
+{
+  "solution": [
+    {
+      "route": [
+        "58 38 21 16 63 31 14",
+        "6 30 45 43 71 55 12 48 11 20 46 72 29 64 35 74 7 52 60 27 56"
+      ],
+      "depot": "33"
+    },
+    {
+      "route": [
+        "34 8 47 19 44 9 15",
+        "40 53 80 13 77 36 73 66"
+      ],
+      "depot": "76"
+    },
+    {
+      "route": [
+        "79 1 62 26 78",
+        "32 69 41 2 42 10 25 5 39 67 49 50"
+      ],
+      "depot": "0"
+    },
+    {
+      "route": [
+        "17",
+        "37 57 59 4 54 18 65"
+      ],
+      "depot": "70"
+    },
+    {
+      "route": [
+        "75",
+        "68 28 51 23 61 22 24"
+      ],
+      "depot": "3"
+    }
+  ],
+  "**TotalCost: ": 15582,
+  "Counters: ": "swapNodesInRoute=25,swapHubWithNodeInRoute=10,swapNodesBetweenRoutes=1,insertNodeInRoute=15,insertNodeBetweenRoutes=14"
+}
